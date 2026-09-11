@@ -1,0 +1,15 @@
+{
+  "name": "tradelab-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A paper-trading simulator with simulated market data.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
